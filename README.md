@@ -45,6 +45,8 @@ const user: User = {
   email: "tausif@example.com"
 };
 
+```
+
 
 # keyof in TypeScript
 
